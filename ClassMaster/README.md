@@ -19,7 +19,7 @@
 - QR管理（クラスごとにURL/ラベル登録・プレビュー）
 - バックアップ読込（保護済みバックアップの管理）
 
-![代替テキスト](assets/screenshot.png)
+![メインキャンバス](assets/screenshot_01.png)
 
 ## アーキテクチャ
 - 設計方針と分割構成: `docs/architecture.md`
