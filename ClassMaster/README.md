@@ -63,7 +63,7 @@
   環境変数 `CLASSMASTA_PDF_JP_FONT` に TTF/OTF のパスを設定してください
 
 ## AI連携
-- APIキーは `ai_keys.json` に保存されます
+- 開発中のプロダクトでは、APIキーは `ai_keys.env` に保存されます
 - 音声生成（例: ElevenLabs など）と文法解析（例: OpenAI など）を利用できます
 
 ## 注意
